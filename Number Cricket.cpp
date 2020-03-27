@@ -9,6 +9,6 @@ using namespace std;
   string pName;
   int    pScore;
 
-  cout << "Welcome to Number Cricket" endl;
-  cout << "Please enter your name" endl;
+  cout << "Welcome to Number Cricket" <<endl;
+  cout << "Please enter your name" <<endl;
 }
